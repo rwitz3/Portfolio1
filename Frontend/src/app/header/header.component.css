@@ -1,0 +1,30 @@
+.navbar-brand{
+    margin-left: 1cm;
+    font-weight: bolder;
+    font-size: x-large;
+
+    
+}
+.navbar-translate{
+    
+}
+.nav-link{
+    
+    margin-right: 5px;
+    
+}
+.navbar-nav{
+    margin-left: 23cm;
+    display: flex;
+    align-items: center;
+}a{
+    color: aliceblue;
+    text-decoration: none;
+    
+}a:hover{
+    color: rgb(94, 78, 96);
+}
+/* ul{
+    display: flex;
+    align-items: center;
+} */
